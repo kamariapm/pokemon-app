@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background: #e0e0e0;
+    color: black
+}
+
+#header{
+    background: #212121;
+    color: #fff176;
+    font-weight: 900;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.lead{
+    text-align: justify;
+    color: #fff176
+}
+
+p{
+    color: black;
+    text-align: center
+}
+
+.container{
+    justify-content: center
+}
+#description{
+font-size: 25px;
+font-weight: bold
+}
+
+#textBox{
+    border-radius: 25px;
+    width: 400px;
+    height: 35px
+}
+
+img {
+    border-radius: 50%;
+}
+
+#pokemonpic{
+    margin-top: -3%
+}
+
+#generate{
+    border-radius: 25px;
+    background: black;
+    color: white;
+    margin-left: 40%
+
+}
+#resetButton{
+    border-radius: 25px;
+    background: black;
+    color: white;
+    margin-left: 2%
+}
+
+#button{
+    margin-top: 2%;
+}
